@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+  <Product>
+    <Product_ID>7631</Product_ID>
+    <NR>HEH-9133</NR>
+    <Name>On Cloud Nine Pillow</Name>
+    <Product_URL>https://www.domain.com/product/heh-9133</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Home Decor</Category>
+    <Category_ID>511</Category_ID>
+    <SubCategory>Pillows</SubCategory>
+    <SubCategory_ID>611</SubCategory_ID>
+    <Brand>FabDecor</Brand>
+    <Items>
+    <Item>
+        <SKU>HEH-9133X1</SKU>
+        <Price>24.99</Price>
+            <Retail_Price>24.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Bed Extras</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.2</Rating_Avg>
+        <Rating_Count>8</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>21</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>HEH-9133X2</SKU>
+        <Price>26.99</Price>
+            <Retail_Price>26.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>Navy Blue</Color>
+        <Color_Family>Blue</Color_Family>
+        <Size>L</Size>
+        <Size_Family>Bed Extras</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.2</Rating_Avg>
+        <Rating_Count>8</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>24</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7615</Product_ID>
+    <NR>HEH-2245</NR>
+    <Name>Simply Sweet Blouse</Name>
+    <Product_URL>https://www.domain.com/product/heh-2245</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Tops</Category>
+    <Category_ID>285</Category_ID>
+    <SubCategory>Blouses</SubCategory>
+    <SubCategory_ID>512</SubCategory_ID>
+    <Brand>Entity Apparel</Brand>
+    <Items>
+    <Item>
+        <SKU>HEH-2245X1</SKU>
+        <Price>59.99</Price>
+            <Retail_Price>59.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Women Tops</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.2</Rating_Avg>
+        <Rating_Count>8</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>25</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>8100</Product_ID>
+    <NR>WKS-6016</NR>
+    <Name>Uptown Girl Blouse</Name>
+    <Product_URL>https://www.domain.com/product/wks-6016</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Tops</Category>
+    <Category_ID>285</Category_ID>
+    <SubCategory>Blouses</SubCategory>
+    <SubCategory_ID>512</SubCategory_ID>
+    <Brand>Entity Apparel</Brand>
+    <Items>
+    <Item>
+        <SKU>WKS-6016X1</SKU>
+        <Price>89.99</Price>
+            <Retail_Price>89.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Women Tops</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>8</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>12</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>WKS-6016X2</SKU>
+        <Price>89.99</Price>
+            <Retail_Price>89.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>GREY</Color>
+        <Color_Family>GREY</Color_Family>
+        <Size>S</Size>
+        <Size_Family>Women Tops</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>18</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>6</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>WKS-6016X3</SKU>
+        <Price>89.99</Price>
+            <Retail_Price>89.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>RED</Color>
+        <Color_Family>RED</Color_Family>
+        <Size>XS</Size>
+        <Size_Family>Women Tops</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>18</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>2</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>6489</Product_ID>
+    <NR>DKO-PROF</NR>
+    <Name>Knock Your Socks Off Lace-Up Heels</Name>
+    <Product_URL>https://www.domain.com/product/dko-prof</Product_URL> 
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Shoes</Category>
+    <Category_ID>310</Category_ID>
+    <SubCategory>Lace-Up Heels</SubCategory>
+    <SubCategory_ID>719</SubCategory_ID>
+    <Brand>Spark Collective</Brand>
+    <Items>
+    <Item>
+        <SKU>DKO-PROFX1</SKU>
+        <Price>38</Price>
+        <Retail_Price>60</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>38</Size>
+        <Size_Family>Women Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>19</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>8</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>12</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>12</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7732</Product_ID>
+    <NR>HEH-2172</NR>
+    <Name>My Cup of Tea Sweater</Name>
+    <Product_URL>https://www.domain.com/product/heh-2172</Product_URL>
+    <Thumbnail_URL>https://www.domain.com/images/heh-2172_600x600.png</Thumbnail_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Tops</Category>
+    <Category_ID>285</Category_ID>
+    <SubCategory>Sweaters</SubCategory>
+    <SubCategory_ID>719</SubCategory_ID>
+    <Brand>Enigma Clothes</Brand>
+    <Items>
+    <Item>
+        <SKU>HEH-2172X1</SKU>
+        <Price>68</Price>
+        <Retail_Price>68</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>44</Size>
+        <Size_Family>Men Tops</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>5</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>2</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7609</Product_ID>
+    <NR>HEH-2211</NR>
+    <Name>Walk On Out Slip On Sneakers</Name>
+    <Product_URL>https://www.domain.com/product/heh-2211</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Shoes</Category>
+    <Category_ID>310</Category_ID>
+    <SubCategory>Slip-On Sneakers</SubCategory>
+    <SubCategory_ID>720</SubCategory_ID>
+    <Brand>Temptation</Brand>
+    <Items>
+    <Item>
+        <SKU>HEH-2211X1</SKU>
+        <Price>34.99</Price>
+        <Retail_Price>34.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>L</Size>
+        <Size_Family>Unisex Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>8</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>0</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>HEH-2211X2</SKU>
+        <Price>34.99</Price>
+        <Retail_Price>34.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>LIGHT BLUE</Color>
+        <Color_Family>BLUE</Color_Family>
+        <Size>XL</Size>
+        <Size_Family>Unisex Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>8</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>2</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    <Item>
+        <SKU>HEH-2211X3</SKU>
+        <Price>34.99</Price>
+        <Retail_Price>34.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>RED</Color>
+        <Color_Family>RED</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Unisex Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>18</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>12</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>HEH-2211X4</SKU>
+        <Price>34.99</Price>
+        <Retail_Price>34.99</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>NAVY</Color>
+        <Color_Family>BLUE</Color_Family>
+        <Size>S</Size>
+        <Size_Family>Unisex Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>6</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>4</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7675</Product_ID>
+    <NR>DKO-CAMEL</NR>
+    <Name>Warm Hearts Sweater</Name>
+    <Product_URL>https://www.domain.com/product/dko-camel</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Tops</Category>
+    <Category_ID>285</Category_ID>
+    <SubCategory>Sweaters</SubCategory>
+    <SubCategory_ID>719</SubCategory_ID>
+    <Brand>Legacy Apparel</Brand>
+    <Items>
+    <Item>
+        <SKU>DKO-CAMELX1</SKU>
+        <Price>54.49</Price>
+        <Retail_Price>54.49</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Unisex Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>1</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>10</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>DKO-CAMELX2</SKU>
+        <Price>54.49</Price>
+        <Retail_Price>54.49</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>YELLOW</Color>
+        <Color_Family>YELLOW</Color_Family>
+        <Size>XL</Size>
+        <Size_Family>Unisex Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>9</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>6</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7463</Product_ID>
+    <NR>WKS-5026</NR>
+    <Name>Silver Lining Dress</Name>
+    <Product_URL>https://www.domain.com/product/wks-5026</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Dresses</Category>
+    <Category_ID>220</Category_ID>
+    <SubCategory>Formal Dresses</SubCategory>
+    <SubCategory_ID>201</SubCategory_ID>
+    <Brand>Temptation</Brand>
+    <Items>
+    <Item>
+        <SKU>WKS-5026X1</SKU>
+        <Price>62</Price>
+        <Retail_Price>62</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Men Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>8</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>10</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>12</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7677</Product_ID>
+    <NR>PCH-8738</NR>
+    <Name>Follow The Beat Sneakers</Name>
+    <Product_URL>https://www.domain.com/product/pch-8738</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Shoes</Category>
+    <Category_ID>310</Category_ID>
+    <SubCategory>Slip-On Sneakers</SubCategory>
+    <SubCategory_ID>720</SubCategory_ID>
+    <Brand>Fusion Fashion</Brand>
+    <Items>
+    <Item>
+        <SKU>PCH-8738X1</SKU>
+        <Price>32</Price>
+        <Retail_Price>32</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>40</Size>
+        <Size_Family>Men Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>18</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>4</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>2</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>PCH-8738X2</SKU>
+        <Price>32</Price>
+        <Retail_Price>32</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>LEAF GREEN</Color>
+        <Color_Family>GREEN</Color_Family>
+        <Size>44</Size>
+        <Size_Family>Men Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>18</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>14</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>2</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>PCH-8738X3</SKU>
+        <Price>32</Price>
+        <Retail_Price>32</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>DARK BLUE</Color>
+        <Color_Family>BLUE</Color_Family>
+        <Size>46</Size>
+        <Size_Family>Men Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.5</Rating_Avg>
+        <Rating_Count>9</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>1</Inventory_Count>
+            </W1>
+            <W2>
+                <Inventory_Count>3</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>5</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>8099</Product_ID>
+    <NR>PCH-8475</NR>
+    <Name>Cup of Joe Pillow</Name>
+    <Product_URL>https://www.domain.com/product/pch-8475</Product_URL>
+    <Price>36</Price>
+    <Retail_Price>36</Retail_Price>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Home Decor</Category>
+    <Category_ID>511</Category_ID>
+    <SubCategory>Pillows</SubCategory>
+    <SubCategory_ID>611</SubCategory_ID>
+    <Brand>FabDecor</Brand>
+    <Items>
+    <Item>
+        <SKU>PCH-8475X1</SKU>
+        <Price>36</Price>
+        <Retail_Price>36</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>S</Size>
+        <Size_Family></Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>1</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>7425</Product_ID>
+    <NR>BCO-SK101</NR>
+    <Name>Burst Your Bubble Denim Jacket</Name>
+    <Product_URL>https://www.domain.com/product/bco-sk101</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Tops</Category>
+    <Category_ID>285</Category_ID>
+    <SubCategory>Jackets</SubCategory>
+    <SubCategory_ID>604</SubCategory_ID>
+    <Brand>Zigzag Clothing</Brand>
+    <Items>
+    <Item>
+        <SKU>BCO-SK101X1</SKU>
+        <Price>84</Price>
+        <Retail_Price>110</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>46</Size>
+        <Size_Family>Men Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>15</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>BCO-SK101X2</SKU>
+        <Price>84</Price>
+        <Retail_Price>110</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>ROSE RED</Color>
+        <Color_Family>RED</Color_Family>
+        <Size>44</Size>
+        <Size_Family>Men Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>15</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    <Item>
+            <SKU>BCO-SK101X3</SKU>
+        <Price>84</Price>
+        <Retail_Price>110</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>RED</Color>
+        <Color_Family>RED</Color_Family>
+        <Size>40</Size>
+        <Size_Family>Men Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>15</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>BCO-SK101X4</SKU>
+        <Price>84</Price>
+        <Retail_Price>110</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>ORANGE</Color>
+        <Color_Family>ORANGE</Color_Family>
+        <Size>48</Size>
+        <Size_Family>Men Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>25</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>8102</Product_ID>
+    <NR>HEH-2254</NR>
+    <Name>Walk It Out Heels</Name>
+    <Product_URL>https://www.domain.com/product/heh-2254</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Shoes</Category>
+    <Category_ID>310</Category_ID>
+    <SubCategory>Heels</SubCategory>
+    <SubCategory_ID>740</SubCategory_ID>
+    <Brand>Fusion Fashion</Brand>
+    <Items>
+    <Item>
+        <SKU>HEH-2254X1</SKU>
+        <Price>32</Price>
+        <Retail_Price>32</Retail_Price>
+            <Thumbnail_URL>https://www.domain.com/images/heh-9133_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>EU 36</Size>
+        <Size_Family>Women Shoes</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>15</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>9964</Product_ID>
+    <NR>BCO-2208</NR>
+    <Name>Word To The Wise Journal</Name>
+    <Product_URL>https://www.domain.com/product/bco-2208</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Home</Category>
+    <Category_ID>410</Category_ID>
+    <SubCategory>Desk Decor</SubCategory>
+    <SubCategory_ID>780</SubCategory_ID>
+    <Brand>Vintage Home</Brand>
+    <Items>
+    <Item>
+        <SKU>BCO-2208X1</SKU>
+        <Price>14.95</Price>
+        <Retail_Price>14.95</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>Large</Size>
+        <Size_Family>Furniture</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>5</Inventory_Count>
+            </W2>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>10440</Product_ID>
+    <NR>KOI-721</NR>
+    <Name>Basic Beauty Off-The-Shoulder Dress</Name>
+    <Product_URL>https://www.domain.com/product/koi-721</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Dresses</Category>
+    <Category_ID>220</Category_ID>
+    <SubCategory>Off-The-Shoulder Dresses</SubCategory>
+    <SubCategory_ID>603</SubCategory_ID>
+    <Brand>Oasis</Brand>
+    <Items>
+    <Item>
+        <SKU>KOI-721X1</SKU>
+        <Price>52</Price>
+        <Retail_Price>78</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Women Clothing</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>20</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    <Item>
+            <SKU>KOI-721X2</SKU>
+        <Price>52</Price>
+        <Retail_Price>78</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>LIGHT BLUE</Color>
+        <Color_Family>BLUE</Color_Family>
+        <Size>L</Size>
+        <Size_Family>Women Clothing</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>23</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+            <SKU>KOI-721X3</SKU>
+        <Price>52</Price>
+        <Retail_Price>78</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>CREAM</Color>
+        <Color_Family>White</Color_Family>
+        <Size>XL</Size>
+        <Size_Family>Women Clothing</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>25</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>6060</Product_ID>
+    <NR>VBH-V5102</NR>
+    <Name>Sunset Boulevard Pants</Name>
+    <Product_URL>https://www.domain.com/product/vbh-v5102</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Bottoms</Category>
+    <Category_ID>236</Category_ID>
+    <SubCategory>Pants</SubCategory>
+    <SubCategory_ID>613</SubCategory_ID>
+    <Brand>Monolith</Brand>
+    <Items>
+    <Item>
+        <SKU>VBH-V5102X1</SKU>
+        <Price>44</Price>
+            <Retail_Price>60</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Men Bottoms</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>26</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>10448</Product_ID>
+    <NR>SKE-15460</NR>
+    <Name>Across The Pond Boots</Name>
+    <Product_URL>https://www.domain.com/product/ske-15460</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Shoes</Category>
+    <Category_ID>310</Category_ID>
+    <SubCategory>Boots</SubCategory>
+    <SubCategory_ID>726</SubCategory_ID>
+    <Brand>Legacy Collective</Brand>
+    <Items>
+    <Item>
+        <SKU>SKE-15460X1</SKU>
+        <Price>74.49</Price>
+        <Retail_Price>74.49</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>38</Size>
+        <Size_Family>Women Boots</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>30</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>SKE-15460X2</SKU>
+        <Price>74.49</Price>
+        <Retail_Price>74.49</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>CREAM</Color>
+        <Color_Family>White</Color_Family>
+        <Size>40</Size>
+        <Size_Family>Women Boots</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>20</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+        <SKU>SKE-15460X3</SKU>
+        <Price>74.49</Price>
+        <Retail_Price>74.49</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>GREY</Color>
+        <Color_Family>GREY</Color_Family>
+        <Size>42</Size>
+        <Size_Family>Women Boots</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>20</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    <Item>
+        <SKU>SKE-15460X4</SKU>
+        <Price>74.49</Price>
+        <Retail_Price>74.49</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>BLACK</Color>
+        <Color_Family>BLACK</Color_Family>
+        <Size>44</Size>
+        <Size_Family>Women Boots</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>20</Inventory_Count>
+            </W1>
+        </Warehouse>
+        </Item>
+    <Item>
+        <SKU>SKE-15460X5</SKU>
+        <Price>74.49</Price>
+        <Retail_Price>74.49</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>MATT BLACK</Color>
+        <Color_Family>BLACK</Color_Family>
+        <Size>46</Size>
+        <Size_Family>Women Boots</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>10</Inventory_Count>
+            </W1>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>8137</Product_ID>
+    <NR>PCH-8705</NR>
+    <Name>Once Upon A Time Lace Dress</Name>
+    <Product_URL>https://www.domain.com/product/pch-8705</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Dresses</Category>
+    <Category_ID>220</Category_ID>
+    <SubCategory>Lace Dresses</SubCategory>
+    <SubCategory_ID>729</SubCategory_ID>
+    <Brand>Oasis</Brand>
+    <Items>
+    <Item>
+        <SKU>PCH-8705X1</SKU>
+        <Price>50</Price>
+        <Retail_Price>108</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>L</Size>
+        <Size_Family>Womens Clothing</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>5</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>6</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>10018</Product_ID>
+    <NR>PGF-ESS</NR>
+    <Name>Lovey Dovey Maxi Dress</Name>
+    <Product_URL>https://www.domain.com/product/pgf-ess</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+    <Category>Dresses</Category>
+    <Category_ID>220</Category_ID>
+    <SubCategory>Maxi Dresses</SubCategory>
+    <SubCategory_ID>603</SubCategory_ID>
+    <Brand>Oasis</Brand>
+    <Items>
+    <Item>
+        <SKU>PGF-ESSX1</SKU>
+        <Price>68</Price>
+        <Retail_Price>68</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Women Maxi Dresses</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>8</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>6</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>5670</Product_ID>
+    <NR>HEH-2223</NR>
+    <Name>Shot in the Dark Pillow</Name>
+    <Product_URL>https://www.domain.com/product/heh-2223</Product_URL>
+    <Thumbnail_URL>https://www.domain.com/images/heh-2223_600x600.png</Thumbnail_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+      <Category>Home Decor</Category>
+      <Category_ID>511</Category_ID>
+      <SubCategory>Pillows</SubCategory>
+      <SubCategory_ID>611</SubCategory_ID>
+    <Brand>Vintage Home</Brand>
+    <Items>
+    <Item>
+            <SKU>HEH-2223X1</SKU>
+        <Price>40</Price>
+        <Retail_Price>40</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>S</Size>
+        <Size_Family>Bed Extras</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>15</Inventory_Count>
+            </W1>
+            <W3>
+                <Inventory_Count>6</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    </Items>
+  </Product>
+  <Product>
+    <Product_ID>9020</Product_ID>
+    <NR>PGF-RIK</NR>
+    <Name>Diamonds Are Forever Pillow</Name>
+    <Product_URL>https://www.domain.com/product/pgf-rik</Product_URL>
+    <Search_Keywords>lorem, ipsum, dolor, ...</Search_Keywords>
+    <Description>Sociosqu facilisis duis ...</Description>
+      <Category>Home Decor</Category>
+      <Category_ID>511</Category_ID>
+      <SubCategory>Pillows</SubCategory>
+      <SubCategory_ID>611</SubCategory_ID>
+    <Brand>Vintage Home</Brand>
+    <Items>
+    <Item>
+        <SKU>PGF-RIKX1</SKU>
+        <Price>36</Price>
+        <Retail_Price>36</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>White</Color>
+        <Color_Family>White</Color_Family>
+        <Size>M</Size>
+        <Size_Family>Bed Extras</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W1>
+                <Inventory_Count>4</Inventory_Count>
+            </W1>
+            <W3>
+                <Inventory_Count>2</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    <Item>
+            <SKU>PGF-RIKX2</SKU>
+        <Price>36</Price>
+        <Retail_Price>36</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>NAVY</Color>
+        <Color_Family>BLUE</Color_Family>
+        <Size>L</Size>
+        <Size_Family>Bed Extras</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>3</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>0</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>1</Active>
+        </Item>
+    <Item>
+            <SKU>PGF-RIKX3</SKU>
+        <Price>36</Price>
+        <Retail_Price>36</Retail_Price>
+        <Thumbnail_URL>https://www.domain.com/images/bco-2208_600x600.png</Thumbnail_URL>
+        <Color>LIGHT BLUE</Color>
+        <Color_Family>BLUE</Color_Family>
+        <Size>XL</Size>
+        <Size_Family>Bed Extras</Size_Family>
+        <Occassion></Occassion>
+        <Season></Season>
+        <Rating_Avg>4.6</Rating_Avg>
+        <Rating_Count>10</Rating_Count>
+        <Warehouse>
+            <W2>
+                <Inventory_Count>0</Inventory_Count>
+            </W2>
+            <W3>
+                <Inventory_Count>0</Inventory_Count>
+            </W3>
+        </Warehouse>
+        <Active>0</Active>
+        </Item>
+    </Items>
+  </Product>
+</Products>

@@ -1,0 +1,1183 @@
+[
+   {
+      "Product_ID": "7631",
+      "NR": "HEH-9133",
+      "Name": "On Cloud Nine Pillow",
+      "Product_URL": "https://www.domain.com/product/heh-9133",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Home Decor",
+      "Category_ID": "511",
+      "SubCategory": "Pillows",
+      "SubCategory_ID": "611",
+      "Brand": "FabDecor",
+      "Items": [
+         {
+            "SKU": "HEH-9133X1",
+            "Price": "24.99",
+            "Retail_Price": "24.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Bed Extras",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.2",
+            "Rating_Count": "8",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "21"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "HEH-9133X2",
+            "Price": "26.99",
+            "Retail_Price": "26.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "Navy Blue",
+            "Color_Family": "Blue",
+            "Size": "L",
+            "Size_Family": "Bed Extras",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.2",
+            "Rating_Count": "8",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "24"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "7615",
+      "NR": "HEH-2245",
+      "Name": "Simply Sweet Blouse",
+      "Product_URL": "https://www.domain.com/product/heh-2245",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Tops",
+      "Category_ID": "285",
+      "SubCategory": "Blouses",
+      "SubCategory_ID": "512",
+      "Brand": "Entity Apparel",
+      "Items": {
+         "Item": {
+            "SKU": "HEH-2245X1",
+            "Price": "59.99",
+            "Retail_Price": "59.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Women Tops",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.2",
+            "Rating_Count": "8",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "25"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "8100",
+      "NR": "WKS-6016",
+      "Name": "Uptown Girl Blouse",
+      "Product_URL": "https://www.domain.com/product/wks-6016",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Tops",
+      "Category_ID": "285",
+      "SubCategory": "Blouses",
+      "SubCategory_ID": "512",
+      "Brand": "Entity Apparel",
+      "Items": [
+         {
+            "SKU": "WKS-6016X1",
+            "Price": "89.99",
+            "Retail_Price": "89.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Women Tops",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "8"
+               },
+               "W2": {
+                  "Inventory_Count": "12"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "WKS-6016X2",
+            "Price": "89.99",
+            "Retail_Price": "89.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "GREY",
+            "Color_Family": "GREY",
+            "Size": "S",
+            "Size_Family": "Women Tops",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "18"
+               },
+               "W2": {
+                  "Inventory_Count": "6"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "WKS-6016X3",
+            "Price": "89.99",
+            "Retail_Price": "89.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "RED",
+            "Color_Family": "RED",
+            "Size": "XS",
+            "Size_Family": "Women Tops",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "18"
+               },
+               "W2": {
+                  "Inventory_Count": "2"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "6489",
+      "NR": "DKO-PROF",
+      "Name": "Knock Your Socks Off Lace-Up Heels",
+      "Product_URL": "https://www.domain.com/product/dko-prof",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Shoes",
+      "Category_ID": "310",
+      "SubCategory": "Lace-Up Heels",
+      "SubCategory_ID": "719",
+      "Brand": "Spark Collective",
+      "Items": {
+         "Item": {
+            "SKU": "DKO-PROFX1",
+            "Price": "38",
+            "Retail_Price": "60",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "38",
+            "Size_Family": "Women Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "19",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "8"
+               },
+               "W2": {
+                  "Inventory_Count": "12"
+               },
+               "W3": {
+                  "Inventory_Count": "12"
+               }
+            },
+            "Active": "0"
+         }
+      }
+   },
+   {
+      "Product_ID": "7732",
+      "NR": "HEH-2172",
+      "Name": "My Cup of Tea Sweater",
+      "Product_URL": "https://www.domain.com/product/heh-2172",
+      "Thumbnail_URL": "https://www.domain.com/images/heh-2172_600x600.png",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Tops",
+      "Category_ID": "285",
+      "SubCategory": "Sweaters",
+      "SubCategory_ID": "719",
+      "Brand": "Enigma Clothes",
+      "Items": {
+         "Item": {
+            "SKU": "HEH-2172X1",
+            "Price": "68",
+            "Retail_Price": "68",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "44",
+            "Size_Family": "Men Tops",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "5"
+               },
+               "W2": {
+                  "Inventory_Count": "2"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "7609",
+      "NR": "HEH-2211",
+      "Name": "Walk On Out Slip On Sneakers",
+      "Product_URL": "https://www.domain.com/product/heh-2211",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Shoes",
+      "Category_ID": "310",
+      "SubCategory": "Slip-On Sneakers",
+      "SubCategory_ID": "720",
+      "Brand": "Temptation",
+      "Items": [
+         {
+            "SKU": "HEH-2211X1",
+            "Price": "34.99",
+            "Retail_Price": "34.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "L",
+            "Size_Family": "Unisex Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "8"
+               },
+               "W2": {
+                  "Inventory_Count": "0"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "HEH-2211X2",
+            "Price": "34.99",
+            "Retail_Price": "34.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "LIGHT BLUE",
+            "Color_Family": "BLUE",
+            "Size": "XL",
+            "Size_Family": "Unisex Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "8"
+               },
+               "W2": {
+                  "Inventory_Count": "2"
+               }
+            },
+            "Active": "0"
+         },
+         {
+            "SKU": "HEH-2211X3",
+            "Price": "34.99",
+            "Retail_Price": "34.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "RED",
+            "Color_Family": "RED",
+            "Size": "M",
+            "Size_Family": "Unisex Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "18"
+               },
+               "W2": {
+                  "Inventory_Count": "12"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "HEH-2211X4",
+            "Price": "34.99",
+            "Retail_Price": "34.99",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "NAVY",
+            "Color_Family": "BLUE",
+            "Size": "S",
+            "Size_Family": "Unisex Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "6"
+               },
+               "W2": {
+                  "Inventory_Count": "4"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "7675",
+      "NR": "DKO-CAMEL",
+      "Name": "Warm Hearts Sweater",
+      "Product_URL": "https://www.domain.com/product/dko-camel",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Tops",
+      "Category_ID": "285",
+      "SubCategory": "Sweaters",
+      "SubCategory_ID": "719",
+      "Brand": "Legacy Apparel",
+      "Items": [
+         {
+            "SKU": "DKO-CAMELX1",
+            "Price": "54.49",
+            "Retail_Price": "54.49",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Unisex Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "1"
+               },
+               "W2": {
+                  "Inventory_Count": "10"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "DKO-CAMELX2",
+            "Price": "54.49",
+            "Retail_Price": "54.49",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "YELLOW",
+            "Color_Family": "YELLOW",
+            "Size": "XL",
+            "Size_Family": "Unisex Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "9"
+               },
+               "W2": {
+                  "Inventory_Count": "6"
+               }
+            },
+            "Active": "0"
+         }
+      ]
+   },
+   {
+      "Product_ID": "7463",
+      "NR": "WKS-5026",
+      "Name": "Silver Lining Dress",
+      "Product_URL": "https://www.domain.com/product/wks-5026",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Dresses",
+      "Category_ID": "220",
+      "SubCategory": "Formal Dresses",
+      "SubCategory_ID": "201",
+      "Brand": "Temptation",
+      "Items": {
+         "Item": {
+            "SKU": "WKS-5026X1",
+            "Price": "62",
+            "Retail_Price": "62",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Men Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "8"
+               },
+               "W2": {
+                  "Inventory_Count": "10"
+               },
+               "W3": {
+                  "Inventory_Count": "12"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "7677",
+      "NR": "PCH-8738",
+      "Name": "Follow The Beat Sneakers",
+      "Product_URL": "https://www.domain.com/product/pch-8738",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Shoes",
+      "Category_ID": "310",
+      "SubCategory": "Slip-On Sneakers",
+      "SubCategory_ID": "720",
+      "Brand": "Fusion Fashion",
+      "Items": [
+         {
+            "SKU": "PCH-8738X1",
+            "Price": "32",
+            "Retail_Price": "32",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "40",
+            "Size_Family": "Men Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "18"
+               },
+               "W2": {
+                  "Inventory_Count": "4"
+               },
+               "W3": {
+                  "Inventory_Count": "2"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "PCH-8738X2",
+            "Price": "32",
+            "Retail_Price": "32",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "LEAF GREEN",
+            "Color_Family": "GREEN",
+            "Size": "44",
+            "Size_Family": "Men Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "18"
+               },
+               "W2": {
+                  "Inventory_Count": "14"
+               },
+               "W3": {
+                  "Inventory_Count": "2"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "PCH-8738X3",
+            "Price": "32",
+            "Retail_Price": "32",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "DARK BLUE",
+            "Color_Family": "BLUE",
+            "Size": "46",
+            "Size_Family": "Men Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.5",
+            "Rating_Count": "9",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "1"
+               },
+               "W2": {
+                  "Inventory_Count": "3"
+               },
+               "W3": {
+                  "Inventory_Count": "5"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "8099",
+      "NR": "PCH-8475",
+      "Name": "Cup of Joe Pillow",
+      "Product_URL": "https://www.domain.com/product/pch-8475",
+      "Price": "36",
+      "Retail_Price": "36",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Home Decor",
+      "Category_ID": "511",
+      "SubCategory": "Pillows",
+      "SubCategory_ID": "611",
+      "Brand": "FabDecor",
+      "Items": {
+         "Item": {
+            "SKU": "PCH-8475X1",
+            "Price": "36",
+            "Retail_Price": "36",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "S",
+            "Size_Family": [],
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "1"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "7425",
+      "NR": "BCO-SK101",
+      "Name": "Burst Your Bubble Denim Jacket",
+      "Product_URL": "https://www.domain.com/product/bco-sk101",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Tops",
+      "Category_ID": "285",
+      "SubCategory": "Jackets",
+      "SubCategory_ID": "604",
+      "Brand": "Zigzag Clothing",
+      "Items": [
+         {
+            "SKU": "BCO-SK101X1",
+            "Price": "84",
+            "Retail_Price": "110",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "46",
+            "Size_Family": "Men Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "15"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "BCO-SK101X2",
+            "Price": "84",
+            "Retail_Price": "110",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "ROSE RED",
+            "Color_Family": "RED",
+            "Size": "44",
+            "Size_Family": "Men Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "15"
+               }
+            },
+            "Active": "0"
+         },
+         {
+            "SKU": "BCO-SK101X3",
+            "Price": "84",
+            "Retail_Price": "110",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "RED",
+            "Color_Family": "RED",
+            "Size": "40",
+            "Size_Family": "Men Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "15"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "BCO-SK101X4",
+            "Price": "84",
+            "Retail_Price": "110",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "ORANGE",
+            "Color_Family": "ORANGE",
+            "Size": "48",
+            "Size_Family": "Men Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "25"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "8102",
+      "NR": "HEH-2254",
+      "Name": "Walk It Out Heels",
+      "Product_URL": "https://www.domain.com/product/heh-2254",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Shoes",
+      "Category_ID": "310",
+      "SubCategory": "Heels",
+      "SubCategory_ID": "740",
+      "Brand": "Fusion Fashion",
+      "Items": {
+         "Item": {
+            "SKU": "HEH-2254X1",
+            "Price": "32",
+            "Retail_Price": "32",
+            "Thumbnail_URL": "https://www.domain.com/images/heh-9133_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "EU 36",
+            "Size_Family": "Women Shoes",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "15"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "9964",
+      "NR": "BCO-2208",
+      "Name": "Word To The Wise Journal",
+      "Product_URL": "https://www.domain.com/product/bco-2208",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Home",
+      "Category_ID": "410",
+      "SubCategory": "Desk Decor",
+      "SubCategory_ID": "780",
+      "Brand": "Vintage Home",
+      "Items": {
+         "Item": {
+            "SKU": "BCO-2208X1",
+            "Price": "14.95",
+            "Retail_Price": "14.95",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "Large",
+            "Size_Family": "Furniture",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "5"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "10440",
+      "NR": "KOI-721",
+      "Name": "Basic Beauty Off-The-Shoulder Dress",
+      "Product_URL": "https://www.domain.com/product/koi-721",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Dresses",
+      "Category_ID": "220",
+      "SubCategory": "Off-The-Shoulder Dresses",
+      "SubCategory_ID": "603",
+      "Brand": "Oasis",
+      "Items": [
+         {
+            "SKU": "KOI-721X1",
+            "Price": "52",
+            "Retail_Price": "78",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Women Clothing",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "20"
+               }
+            },
+            "Active": "0"
+         },
+         {
+            "SKU": "KOI-721X2",
+            "Price": "52",
+            "Retail_Price": "78",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "LIGHT BLUE",
+            "Color_Family": "BLUE",
+            "Size": "L",
+            "Size_Family": "Women Clothing",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "23"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "KOI-721X3",
+            "Price": "52",
+            "Retail_Price": "78",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "CREAM",
+            "Color_Family": "White",
+            "Size": "XL",
+            "Size_Family": "Women Clothing",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "25"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "6060",
+      "NR": "VBH-V5102",
+      "Name": "Sunset Boulevard Pants",
+      "Product_URL": "https://www.domain.com/product/vbh-v5102",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Bottoms",
+      "Category_ID": "236",
+      "SubCategory": "Pants",
+      "SubCategory_ID": "613",
+      "Brand": "Monolith",
+      "Items": {
+         "Item": {
+            "SKU": "VBH-V5102X1",
+            "Price": "44",
+            "Retail_Price": "60",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Men Bottoms",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "26"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "10448",
+      "NR": "SKE-15460",
+      "Name": "Across The Pond Boots",
+      "Product_URL": "https://www.domain.com/product/ske-15460",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Shoes",
+      "Category_ID": "310",
+      "SubCategory": "Boots",
+      "SubCategory_ID": "726",
+      "Brand": "Legacy Collective",
+      "Items": [
+         {
+            "SKU": "SKE-15460X1",
+            "Price": "74.49",
+            "Retail_Price": "74.49",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "38",
+            "Size_Family": "Women Boots",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "30"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "SKE-15460X2",
+            "Price": "74.49",
+            "Retail_Price": "74.49",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "CREAM",
+            "Color_Family": "White",
+            "Size": "40",
+            "Size_Family": "Women Boots",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "20"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "SKE-15460X3",
+            "Price": "74.49",
+            "Retail_Price": "74.49",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "GREY",
+            "Color_Family": "GREY",
+            "Size": "42",
+            "Size_Family": "Women Boots",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "20"
+               }
+            },
+            "Active": "0"
+         },
+         {
+            "SKU": "SKE-15460X4",
+            "Price": "74.49",
+            "Retail_Price": "74.49",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "BLACK",
+            "Color_Family": "BLACK",
+            "Size": "44",
+            "Size_Family": "Women Boots",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "20"
+               }
+            }
+         },
+         {
+            "SKU": "SKE-15460X5",
+            "Price": "74.49",
+            "Retail_Price": "74.49",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "MATT BLACK",
+            "Color_Family": "BLACK",
+            "Size": "46",
+            "Size_Family": "Women Boots",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "10"
+               }
+            },
+            "Active": "1"
+         }
+      ]
+   },
+   {
+      "Product_ID": "8137",
+      "NR": "PCH-8705",
+      "Name": "Once Upon A Time Lace Dress",
+      "Product_URL": "https://www.domain.com/product/pch-8705",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Dresses",
+      "Category_ID": "220",
+      "SubCategory": "Lace Dresses",
+      "SubCategory_ID": "729",
+      "Brand": "Oasis",
+      "Items": {
+         "Item": {
+            "SKU": "PCH-8705X1",
+            "Price": "50",
+            "Retail_Price": "108",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "L",
+            "Size_Family": "Womens Clothing",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "5"
+               },
+               "W3": {
+                  "Inventory_Count": "6"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "10018",
+      "NR": "PGF-ESS",
+      "Name": "Lovey Dovey Maxi Dress",
+      "Product_URL": "https://www.domain.com/product/pgf-ess",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Dresses",
+      "Category_ID": "220",
+      "SubCategory": "Maxi Dresses",
+      "SubCategory_ID": "603",
+      "Brand": "Oasis",
+      "Items": {
+         "Item": {
+            "SKU": "PGF-ESSX1",
+            "Price": "68",
+            "Retail_Price": "68",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Women Maxi Dresses",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "8"
+               },
+               "W3": {
+                  "Inventory_Count": "6"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "5670",
+      "NR": "HEH-2223",
+      "Name": "Shot in the Dark Pillow",
+      "Product_URL": "https://www.domain.com/product/heh-2223",
+      "Thumbnail_URL": "https://www.domain.com/images/heh-2223_600x600.png",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Home Decor",
+      "Category_ID": "511",
+      "SubCategory": "Pillows",
+      "SubCategory_ID": "611",
+      "Brand": "Vintage Home",
+      "Items": {
+         "Item": {
+            "SKU": "HEH-2223X1",
+            "Price": "40",
+            "Retail_Price": "40",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "S",
+            "Size_Family": "Bed Extras",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "15"
+               },
+               "W3": {
+                  "Inventory_Count": "6"
+               }
+            },
+            "Active": "1"
+         }
+      }
+   },
+   {
+      "Product_ID": "9020",
+      "NR": "PGF-RIK",
+      "Name": "Diamonds Are Forever Pillow",
+      "Product_URL": "https://www.domain.com/product/pgf-rik",
+      "Search_Keywords": "lorem, ipsum, dolor, ...",
+      "Description": "Sociosqu facilisis duis ...",
+      "Category": "Home Decor",
+      "Category_ID": "511",
+      "SubCategory": "Pillows",
+      "SubCategory_ID": "611",
+      "Brand": "Vintage Home",
+      "Items": [
+         {
+            "SKU": "PGF-RIKX1",
+            "Price": "36",
+            "Retail_Price": "36",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "White",
+            "Color_Family": "White",
+            "Size": "M",
+            "Size_Family": "Bed Extras",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W1": {
+                  "Inventory_Count": "4"
+               },
+               "W3": {
+                  "Inventory_Count": "2"
+               }
+            },
+            "Active": "0"
+         },
+         {
+            "SKU": "PGF-RIKX2",
+            "Price": "36",
+            "Retail_Price": "36",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "NAVY",
+            "Color_Family": "BLUE",
+            "Size": "L",
+            "Size_Family": "Bed Extras",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "3"
+               },
+               "W3": {
+                  "Inventory_Count": "0"
+               }
+            },
+            "Active": "1"
+         },
+         {
+            "SKU": "PGF-RIKX3",
+            "Price": "36",
+            "Retail_Price": "36",
+            "Thumbnail_URL": "https://www.domain.com/images/bco-2208_600x600.png",
+            "Color": "LIGHT BLUE",
+            "Color_Family": "BLUE",
+            "Size": "XL",
+            "Size_Family": "Bed Extras",
+            "Occassion": [],
+            "Season": [],
+            "Rating_Avg": "4.6",
+            "Rating_Count": "10",
+            "Warehouse": {
+               "W2": {
+                  "Inventory_Count": "0"
+               },
+               "W3": {
+                  "Inventory_Count": "0"
+               }
+            },
+            "Active": "0"
+         }
+      ]
+   }
+]
