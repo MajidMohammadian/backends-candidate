@@ -11,6 +11,8 @@ services:
     depends_on:
       - php
       - mysql
+    networks:
+      - geeks
   php:
     build:
       context: ./dockerfiles
@@ -18,14 +20,27 @@ services:
     volumes:
       - ./src:/var/www/html:delegated
       - ./src/custom.ini:/usr/local/etc/php/conf.d/custom.ini
+    networks:
+      - geeks
   mysql:
-    platform: linux/x86_64
-    image: mysql:8
+    image: mysql/mysql-server:8.0
     env_file:
       - ./env/mysql.env
+    networks:
+      - geeks
+    healthcheck:
+      test: [ "CMD", "mysqladmin", "ping", "-p${MYSQL_PASSWORD}" ]
+      retries: 3
+      timeout: 5s
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     env_file:
       - ./env/phpmyadmin.env
     ports:
       - 81:80
+    networks:
+      - geeks
+
+networks:
+  geeks:
+    driver: bridge
