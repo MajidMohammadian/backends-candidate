@@ -5,6 +5,7 @@ global $db;
 $table_product = "
 CREATE TABLE IF NOT EXISTS `product` (
     `id` INT UNSIGNED NOT NULL AUTO_INCREMENT ,
+    `Product_ID` INT UNSIGNED NOT NULL ,
     `NR` VARCHAR(255) NULL DEFAULT NULL ,
     `Name` VARCHAR(255) NULL DEFAULT NULL ,
     `Product_URL` VARCHAR(500) NULL DEFAULT NULL ,
@@ -23,11 +24,11 @@ $db->query($table_product);
 $table_product_item = "
 CREATE TABLE IF NOT EXISTS `product_item` (
     `id` INT UNSIGNED NOT NULL AUTO_INCREMENT ,
-    `Product_ID` INT UNSIGNED NOT NULL ,
+    `product_id` INT UNSIGNED NOT NULL ,
     `SKU` VARCHAR(255) NULL DEFAULT NULL ,
     `Price` DECIMAL(15,2) NOT NULL DEFAULT '0' ,
     `Retail_Price` DECIMAL(15,2) NOT NULL DEFAULT '0' ,
-    `Thumbnail_URL` INT NULL DEFAULT NULL ,
+    `Thumbnail_URL` VARCHAR(500) NULL DEFAULT NULL ,
     `Color` VARCHAR(255) NULL DEFAULT NULL ,
     `Color_Family` VARCHAR(255) NULL DEFAULT NULL ,
     `Size` VARCHAR(255) NULL DEFAULT NULL ,
@@ -37,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `product_item` (
     `Rating_Avg` DECIMAL(15,2) NOT NULL DEFAULT '0' ,
     `Rating_Count` INT UNSIGNED NOT NULL DEFAULT '0' ,
     `Warehouse` VARCHAR(500) NULL DEFAULT NULL ,
-    `Active` BOOLEAN NOT NULL DEFAULT TRUE ,
+    `Active` VARCHAR(1) NULL DEFAULT '1' ,
     PRIMARY KEY (`id`)
 ) ENGINE = InnoDB;";
 

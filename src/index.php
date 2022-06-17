@@ -8,6 +8,9 @@ if (is_file('config.php')) {
 require_once __DIR__ . '/helper/connection_database.php';
 require_once __DIR__ . '/helper/installation.php';
 require_once __DIR__ . '/helper/loader.php';
+require_once __DIR__ . '/helper/helper.php';
+
+session_start();
 
 $q = (isset($_GET['q'])) ? $_GET['q'] : null;
 

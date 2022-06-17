@@ -17,7 +17,7 @@ function controller($controller, $function = 'index') {
     }
 }
 
-function model($model, $function) {
+function model($model, $function, $args = []) {
     $file = DIR_MODEL . $model . 'Model.php';
 
     if(file_exists($file)) {
@@ -27,7 +27,7 @@ function model($model, $function) {
         if(class_exists($class)) {
             $object = new $class();
 
-            return $object->$function();
+            return $object->$function($args);
         }
     } else {
         trigger_error('Error: Could not load model ' . $file . '!');
