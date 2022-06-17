@@ -1,0 +1,10 @@
+#form-upload {}
+#form-upload > div {}
+#form-upload > div > span {}
+#form-upload > div > input {}
+#form-upload > input {
+    background-color: greenyellow;
+    border: 0;
+    padding: 10px;
+    border-radius: 3px;
+}
