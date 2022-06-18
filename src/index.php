@@ -18,6 +18,9 @@ switch($q) {
     case 'upload':
         echo controller('Upload');
         break;
+    case 'family':
+        echo controller('Family');
+        break;
     default:
         echo controller('Home');
 }

@@ -13,14 +13,53 @@
     margin-bottom: 25px;
 }
 
-#form-upload {}
-#form-upload > div {}
-#form-upload > div > span {}
-#form-upload > div > input {}
+.menu {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+.menu > ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    font-size: 17px;
+    font-weight: bold;
+}
+.menu > ul > li {
+    margin-right: 20px;
+}
+.menu > ul > li > a,
+.menu > ul > li > a:link,
+.menu > ul > li > a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.menu > ul > li > a:hover,
+.menu > ul > li > a:active {
+    color: red;
+}
+
 #form-upload > input {
     background-color: greenyellow;
     border: 0;
     padding: 10px;
     border-radius: 3px;
     margin-top: 20px;
+}
+
+.table {
+    width: 100%;
+}
+.table > thead {}
+.table > thead > tr {
+    background-color: black;
+    color: white;
+}
+.table > thead > tr > th {
+    padding: 10px;
+}
+.table > tbody {}
+.table > tbody > tr {}
+.table > tbody > tr > td {
+    padding: 10px;
 }

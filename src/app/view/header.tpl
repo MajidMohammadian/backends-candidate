@@ -6,3 +6,18 @@
 </head>
 <body>
     <div class="container">
+        <div class="menu">
+            <ul>
+                <li>#</li>
+                <li>
+                    <a href="/">Upload File</a>
+                </li>
+                <li>
+                    <a href="/?q=family">Family</a>
+                </li>
+            </ul>
+        </div>
+        <?php if(isset($_SESSION['success'])) { ?>
+            <div class="alert"><?=$_SESSION['success']?></div>
+            <?php unset($_SESSION['success']); ?>
+        <?php } ?>
