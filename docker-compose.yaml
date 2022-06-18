@@ -2,6 +2,7 @@ version: "3.8"
 
 services:
   server:
+    container_name: geeks_server
     image: 'nginx:stable-alpine'
     ports:
       - '80:80'
@@ -14,6 +15,7 @@ services:
     networks:
       - geeks
   php:
+    container_name: geeks_php
     build:
       context: ./dockerfiles
       dockerfile: php.dockerfile
@@ -23,9 +25,12 @@ services:
     networks:
       - geeks
   mysql:
+    container_name: geeks_mysql
     image: mysql/mysql-server:8.0
     env_file:
       - ./env/mysql.env
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d/:ro
     networks:
       - geeks
     healthcheck:
@@ -33,6 +38,7 @@ services:
       retries: 3
       timeout: 5s
   phpmyadmin:
+    container_name: geeks_phpmyadmin
     image: phpmyadmin/phpmyadmin
     env_file:
       - ./env/phpmyadmin.env
