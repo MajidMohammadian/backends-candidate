@@ -14,15 +14,15 @@
         <?php foreach($families as $family) { ?>
             <tr>
                 <td><?=$family['surname']?></td>
-                <td>fdsfsdf</td>
-                <td>fdsfsdf</td>
-                <td>gdfbcv</td>
-                <td>gdfgd</td>
+                <td><?=$family['member']?></td>
+                <td><?=$family['father']?></td>
+                <td><?=$family['maxage']?></td>
+                <td><?=$family['children']?></td>
             </tr>
         <?php } ?>
         <tr>
             <td colspan="4">Total</td>
-            <td>20</td>
+            <td><?= $families[0]['total_member'] ?></td>
         </tr>
     </tbody>
 </table>
