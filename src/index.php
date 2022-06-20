@@ -21,6 +21,9 @@ switch($q) {
     case 'family':
         echo controller('Family');
         break;
+    case 'address':
+        echo controller('Address');
+        break;
     default:
         echo controller('Home');
 }

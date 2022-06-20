@@ -15,6 +15,9 @@
                 <li>
                     <a href="/?q=family">Family</a>
                 </li>
+                <li>
+                    <a href="/?q=address">Address</a>
+                </li>
             </ul>
         </div>
         <?php if(isset($_SESSION['success'])) { ?>
